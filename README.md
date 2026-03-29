@@ -21,7 +21,7 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone [https://github.com/your-username/ai-sales-bot.git](https://github.com/your-username/ai-sales-bot.git)
+git clone [https://github.com/limonORG02/ai-sales-bot.git](https://github.com/limonORG02/ai-sales-bot.git)
 cd ai-sales-bot
 ```
 ### 2. Настройка окружения
